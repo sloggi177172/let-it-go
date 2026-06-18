@@ -1,6 +1,6 @@
 {
-    "latestVersion": "1.0.19",
-    "minRequiredVersion": "1.0.19",
+    "latestVersion": "1.0.20",
+    "minRequiredVersion": "1.0.20",
     "forceUpdate": true,
-    "message": "系统检测到关键更新 (1.0.19)，请更新后继续使用以确保功能正常。"
+    "message": "系统检测到关键更新 (1.0.20)，请更新后继续使用以确保功能正常。"
 }

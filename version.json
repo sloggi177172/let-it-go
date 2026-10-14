@@ -1,6 +1,6 @@
 {
-    "latestVersion": "1.0.31",
-    "minRequiredVersion": "1.0.31",
-    "forceUpdate": true,
-    "message": "系统检测到关键更新 (1.0.31)，请更新后继续使用以确保功能正常。"
+  "latestVersion": "1.0.32",
+  "minRequiredVersion": "1.0.31",
+  "forceUpdate": false,
+  "message": "发现新版本 1.0.32，包含界面与图片生成功能更新。"
 }
